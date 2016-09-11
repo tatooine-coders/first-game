@@ -54,7 +54,7 @@ public class PlayerControl2d : MonoBehaviour
 		}
 	}
 
-	public Die() //called when we die
+	public void Die() //called when we die
 	{
 		Application.LoadLevel (0); //restarts the level
 	}
