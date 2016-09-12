@@ -4,9 +4,9 @@ This is the first project of the team: a small game made with [Unity3d](http://u
 The choice of Unity is a good compromise to start coding in C# and to get something done quickly.
 
 ## Story
-The game's story can be summed up as follow:
+The game's story can be summed up as follows:
   - Tux, the mighty opensource defender is stuck in a computer world ruled by a terrible AI: Cortanouille.
-  - The AI was developped by Megahard, and was its goal is to convert people to the Door, an OS who sucks _your data_...
+  - The AI was developped by Megahard, and its goal is to convert people to the Door, an OS that sucks _your data_...
 
 ## How can I participate ?
 For now, we will only accept PRs from the team, as the project is meant to train us, but if you're interested, you still can submit issues and comment things. We have to learn, but we like comments...
